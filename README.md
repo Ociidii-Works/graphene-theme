@@ -2,6 +2,9 @@
 
 A darker theme for Sublime Text 3 based on [Soda](http://buymeasoda.github.com/soda-theme/).
 
+This is a hybrid between Dark Eight and Soda Theme.
+To be precise, this is the spiritual sucessor of Dark Eight, rebuilt on the newest Soda base.
+
 ## Design
 
  [Insert Screenshots Here]
