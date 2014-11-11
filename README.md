@@ -25,7 +25,7 @@ You can locate your Sublime Text `Packages` directory by using the menu item `Pr
 
 While inside the `Packages` directory, clone the theme repository using the command below:
 
-    git clone https://github.com/ociidii-works/Graphene-theme/ "Theme - Graphene"
+    git clone https://github.com/ociidii-works/Graphene-Theme/ "Theme - Graphene"
 
 ### Download Manually
 
