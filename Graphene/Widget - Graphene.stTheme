@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>author</key>
-	<string>Ian Hill</string>
+	<string>Ian Hill, David Turenne</string>
 	<key>comment</key>
-	<string>A widget theme for the UI components of the Soda Dark theme.</string>
+	<string>A widget theme for the UI components of the Graphene theme.</string>
 	<key>name</key>
-	<string>Soda Dark - Widget Theme</string>
+	<string>Graphene - Widget Theme</string>
 	<key>settings</key>
 	<array>
 		<dict>
