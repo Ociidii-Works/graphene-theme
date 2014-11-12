@@ -15,7 +15,9 @@ Graphene theme is designed to work with the latest verion of Sublime Text, [Subl
 
 ### Using Sublime Package Control
 
-If you are using Will Bond's excellent [Sublime Package Control](http://wbond.net/sublime_packages/package_control), you can easily install Graphene Theme via the `Package Control: Install Package` menu item. The Graphene Theme package is listed as `Theme - Graphene` in the packages list.
+~~If you are using Will Bond's excellent [Sublime Package Control](http://wbond.net/sublime_packages/package_control), you can easily install Graphene Theme via the `Package Control: Install Package` menu item. The Graphene Theme package is listed as `Theme - Graphene` in the packages list.~~
+
+Soon!
 
 ### Using Git
 
