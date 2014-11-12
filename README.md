@@ -4,8 +4,6 @@ A darker theme for Sublime Text 3 based on [Soda](http://buymeasoda.github.com/s
 
 This is a very dark theme suited for nocturnal or photophobe developers.
 
-We recommend using Pastel-Paws (Graphene variant) as a color scheme since they are meant to be used together.
-
 ## Design
 
  [![Preview][thumb]][full]
@@ -63,42 +61,43 @@ We lack the time and man-power to officially support Sublime Text 2 at the same 
 ### Alternate Tab Styles
 
 Graphene Theme ships with two alternate UI tab styles, like Soda.
+To avoid switching back and forth between repos, i'll quote it from Soda Theme:
 
-By default, a square tab style is used. If you'd prefer to use the original curved tab style, add the following custom setting to your `Settings - User` file:
+> By default, a square tab style is used. If you'd prefer to use the original curved tab style, add the following custom setting to your `Settings - User` file:
 
-    "soda_classic_tabs": true
+>    "soda_classic_tabs": true
 
-![Soda Tab Styles](http://buymeasoda.github.com/soda-theme/images/features/multiple-tab-styles.png)
+> ![Soda Tab Styles](http://buymeasoda.github.com/soda-theme/images/features/multiple-tab-styles.png)
 
-### Sidebar Folder Icons
+> ### Sidebar Folder Icons
 
-Soda Theme has folder icons by default with Sublime Text 3.
+> Soda Theme has folder icons by default with Sublime Text 3.
 
-If you'd like to use folder icons in the Sublime Text 2 sidebar instead of the regular arrows, add the following custom setting to your `Settings - User` file:
+> If you'd like to use folder icons in the Sublime Text 2 sidebar instead of the regular arrows, add the following custom setting to your `Settings - User` file:
 
-    "soda_folder_icons": true
+>     "soda_folder_icons": true
 
-![Soda Folder Icons](http://buymeasoda.github.com/soda-theme/images/features/sidebar-folder-icons.png)
+> ![Soda Folder Icons](http://buymeasoda.github.com/soda-theme/images/features/sidebar-folder-icons.png)
 
-### Retina Resolution UI
+> ### Retina Resolution UI
 
-Soda Theme has been designed to take advantage of retina resolution (high-dpi) displays. Both Soda Light and Soda Dark support retina displays.
+> Soda Theme has been designed to take advantage of retina resolution (high-dpi) displays. Both Soda Light and Soda Dark support retina displays.
 
-![Soda Retina](http://buymeasoda.github.com/soda-theme/images/features/soda-retina.png)
+> ![Soda Retina](http://buymeasoda.github.com/soda-theme/images/features/soda-retina.png)
 
 ### Theme Customisation
 
-Sublime Text provides an elegant way to tweak existing themes without having to duplicate or maintain a separate copy of the original theme. If there are aspects of Soda Theme that you would like to adjust, take a look at the [theme customisation](https://github.com/buymeasoda/soda-theme/wiki/Theme-customisation) wiki page.
+Sublime Text provides an elegant way to tweak existing themes without having to duplicate or maintain a separate copy of the original theme. If there are aspects of Graphene Theme that you would like to adjust, take a look at the [theme customisation](https://github.com/buymeasoda/soda-theme/wiki/Theme-customisation) wiki page.
 
 ## Bonus Options
 
 ### Syntax Highlighting Colour Schemes
 
-The Soda Light screenshot uses a modified version of Espresso Tutti Colori and the Soda Dark screenshot uses a modified version of Monokai.
+We recommend using [Pastel-Paws](https://github.com/Ociidii-Works/pastel_paws) (Graphene variant) as a color scheme since they are meant to be used together.
 
 If you'd like to use the syntax highlighting schemes shown in the screenshots:
 
-* Download [Pastel Paws](https://github.com/Ociidii-Works/pastel_paws/) through Package Control
+* Download Pastel Paws through Package Control
 * Enable the colour scheme via `Preferences -> Color Scheme -> User`
 
 ## Development
