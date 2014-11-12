@@ -60,8 +60,9 @@ We lack the time and man-power to officially support Sublime Text 2 at the same 
 
 ### Alternate Tab Styles
 
-Graphene Theme ships with two alternate UI tab styles, like Soda.
-To avoid switching back and forth between repos, i'll quote it from Soda Theme:
+Graphene Theme suppports the same alternate UI styles proposed by Soda Theme.
+
+To avoid switching back and forth between repos, here's a quote from Soda Theme:
 
 > By default, a square tab style is used. If you'd prefer to use the original curved tab style, add the following custom setting to your `Settings - User` file:
 
