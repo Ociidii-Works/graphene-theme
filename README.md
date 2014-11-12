@@ -2,12 +2,15 @@
 
 A darker theme for Sublime Text 3 based on [Soda](http://buymeasoda.github.com/soda-theme/).
 
-This is a hybrid between Dark Eight and Soda Theme.
-To be precise, this is the spiritual sucessor of Dark Eight, rebuilt on the newest Soda base.
+This is a very dark theme suited for nocturnal or photophobe developers.
+
+We recommend using Pastel-Paws (Graphene variant) as a color scheme since they are meant to be used together.
 
 ## Design
 
- [Insert Screenshots Here]
+ [![Preview][thumb]][full]
+ 
+ The font used is Anomymous Pro
 
 ## Installation
 
@@ -111,3 +114,6 @@ The following details apply to the Creative Commons license "author specified" c
 * Attribution example: Based on Graphene Theme by David "Xenhat" Turenne
 
 * Naming guidelines: If you create and distribute a derivative theme, please give your theme a unique and original name that does not directly include "Graphene Theme" (or a close variant) in the main project title, repo name or Package Control name.
+
+[thumb]: https://raw.githubusercontent.com/Ociidii-Works/Graphene-Theme/master/preview/graphene_thumb.png
+[full]: https://raw.githubusercontent.com/Ociidii-Works/Graphene-Theme/master/preview/graphene_full.png
