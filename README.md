@@ -1,8 +1,8 @@
-# Graphene Theme
+# Petroleum Theme
 
-A darker theme for Sublime Text 3 based on [Soda](http://buymeasoda.github.com/soda-theme/).
+A very dark theme for Sublime Text 3 based on [Soda](http://buymeasoda.github.com/soda-theme/).
 
-This is a very dark theme suited for nocturnal or photophobe developers.
+This is especially suited for nocturnal or photophobe developers.
 
 ## Design
 
@@ -12,13 +12,13 @@ This is a very dark theme suited for nocturnal or photophobe developers.
 
 ## Installation
 
-Graphene theme is designed to work with the latest verion of Sublime Text, [Sublime Text 3](http://www.sublimetext.com/3dev).
+Petroleum theme is designed to work with the latest verion of Sublime Text, [Sublime Text 3](http://www.sublimetext.com/3dev).
 
 ### Using Sublime Package Control
 
-~~If you are using Will Bond's excellent [Sublime Package Control](http://wbond.net/sublime_packages/package_control), you can easily install Graphene Theme via the `Package Control: Install Package` menu item. The Graphene Theme package is listed as `Theme - Graphene` in the packages list.~~
+~~If you are using Will Bond's excellent [Sublime Package Control](http://wbond.net/sublime_packages/package_control), you can easily install Petroleum Theme via the `Package Control: Install Package` menu item. The Petroleum Theme package is listed as `Theme - Petroleum` in the packages list.~~
 
-Soon!
+~Soon!~ Maybe, if popularity requires it.
 
 ### Using Git
 
@@ -28,12 +28,12 @@ You can locate your Sublime Text `Packages` directory by using the menu item `Pr
 
 While inside the `Packages` directory, clone the theme repository using the command below:
 
-    git clone https://github.com/ociidii-works/Graphene-Theme/ "Theme - Graphene"
+    git clone https://github.com/ociidii-works/theme_petroleum/ "Theme - Petroleum"
 
 ### Download Manually
 
 * Download the files using the GitHub .zip download option
-* Unzip the files and rename the folder to `Theme - Graphene`
+* Unzip the files and rename the folder to `Theme - Petroleum`
 * Find your `Packages` directory using the menu item  `Preferences -> Browse Packages...`
 * Copy the folder into your Sublime Text `Packages` directory
 
@@ -48,19 +48,19 @@ We lack the time and man-power to officially support Sublime Text 2 at the same 
 ### Sublime Text 3
 
 * Open your User Settings Preferences file `Sublime Text -> Preferences -> Settings - User`
-* Add (or update) your theme entry to be `"theme": "Graphene.sublime-theme"`
+* Add (or update) your theme entry to be `"theme": "Petroleum.sublime-theme"`
 
 **Example Sublime Text 3 User Settings**
 
     {
-        "theme": "Graphene.sublime-theme"
+        "theme": "Petroleum.sublime-theme"
     }
 
 ## Additional Features
 
 ### Alternate Tab Styles
 
-Graphene Theme suppports the same alternate UI styles proposed by Soda Theme.
+Petroleum Theme suppports the same alternate UI styles proposed by Soda Theme.
 
 To avoid switching back and forth between repos, here's a quote from Soda Theme:
 
@@ -88,13 +88,13 @@ To avoid switching back and forth between repos, here's a quote from Soda Theme:
 
 ### Theme Customisation
 
-Sublime Text provides an elegant way to tweak existing themes without having to duplicate or maintain a separate copy of the original theme. If there are aspects of Graphene Theme that you would like to adjust, take a look at the [theme customisation](https://github.com/buymeasoda/soda-theme/wiki/Theme-customisation) wiki page.
+Sublime Text provides an elegant way to tweak existing themes without having to duplicate or maintain a separate copy of the original theme. If there are aspects of Petroleum Theme that you would like to adjust, take a look at the [theme customisation](https://github.com/buymeasoda/soda-theme/wiki/Theme-customisation) wiki page.
 
 ## Bonus Options
 
 ### Syntax Highlighting Colour Schemes
 
-We recommend using [Pastel-Paws](https://github.com/Ociidii-Works/pastel_paws) (Graphene variant) as a color scheme since they are meant to be used together.
+We recommend using [Pastel-Paws](https://github.com/Ociidii-Works/pastel_paws) (Petroleum variant) as a color scheme since they are meant to be used together.
 
 If you'd like to use the syntax highlighting schemes shown in the screenshots:
 
@@ -107,13 +107,13 @@ Please note, Sublime Text dev builds move quickly and changes can occur with the
 
 ## License
 
-Soda Theme is licensed under the [Creative Commons Attribution-ShareAlike 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/). You are free to share and remix the theme, however please abide by the license terms when doing so.
+Petroleum is licensed under the [Creative Commons Attribution-ShareAlike 4.0 License](http://creativecommons.org/licenses/by-sa/4.0/). You are free to share and remix the theme, however please abide by the license terms when doing so.
 
 The following details apply to the Creative Commons license "author specified" components:
 
-* Attribution example: Based on Graphene Theme by David "Xenhat" Turenne
+* Attribution example: Based on Petroleum Theme by David "Xenhat" Turenne
 
-* Naming guidelines: If you create and distribute a derivative theme, please give your theme a unique and original name that does not directly include "Graphene Theme" (or a close variant) in the main project title, repo name or Package Control name.
+* Naming guidelines: If you create and distribute a derivative theme, please give your theme a unique and original name that does not directly include "Petroleum Theme" (or a close variant) in the main project title, repo name or Package Control name.
 
-[thumb]: https://raw.githubusercontent.com/Ociidii-Works/Graphene-Theme/master/preview/graphene_thumb.png
-[full]: https://raw.githubusercontent.com/Ociidii-Works/Graphene-Theme/master/preview/graphene_full.png
+[thumb]: https://raw.githubusercontent.com/Ociidii-Works/theme_petroleumTheme/master/preview/graphene_thumb.png
+[full]: https://raw.githubusercontent.com/Ociidii-Works/theme_petroleum/master/preview/graphene_full.png
