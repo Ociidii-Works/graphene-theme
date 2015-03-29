@@ -6,7 +6,7 @@ This is especially suited for nocturnal or photophobe developers.
 
 ## Design
 
- [![Preview][thumb]][full]
+ [![thumb]][full]
  
  The font used is Anomymous Pro
 
@@ -113,5 +113,5 @@ The following details apply to the Creative Commons license "author specified" c
 
 * Naming guidelines: If you create and distribute a derivative theme, please give your theme a unique and original name that does not directly include "Petroleum Theme" (or a close variant) in the main project title, repo name or Package Control name.
 
-[thumb]: https://raw.githubusercontent.com/Ociidii-Works/theme_petroleumTheme/master/preview/graphene_thumb.png
+[thumb]: https://raw.githubusercontent.com/Ociidii-Works/theme_petroleum/master/preview/graphene_thumb.png
 [full]: https://raw.githubusercontent.com/Ociidii-Works/theme_petroleum/master/preview/graphene_full.png
