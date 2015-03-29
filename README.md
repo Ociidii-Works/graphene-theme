@@ -16,9 +16,7 @@ Petroleum theme is designed to work with the latest verion of Sublime Text, [Sub
 
 ### Using Sublime Package Control
 
-~~If you are using Will Bond's excellent [Sublime Package Control](http://wbond.net/sublime_packages/package_control), you can easily install Petroleum Theme via the `Package Control: Install Package` menu item. The Petroleum Theme package is listed as `Theme - Petroleum` in the packages list.~~
-
-~Soon!~ Maybe, if popularity requires it.
+The Petroleum Theme package is listed as `Theme - Petroleum` in the packages list.
 
 ### Using Git
 
